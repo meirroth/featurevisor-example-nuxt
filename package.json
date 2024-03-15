@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "nuxt": "^3.7.0"
+    "nuxt": "^3.10.3"
   },
   "dependencies": {
     "@featurevisor/sdk": "^0.47.7"
